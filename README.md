@@ -47,6 +47,9 @@ mv fiilename.mcool cell1_name.mcool
 # note: you can replace the numerical number as any interger you want, and change the 'name' as you want.
 ```
 
+
+## Process dataset
+
 ## Inference HiCDFormer
 
 If you want to retrain your dataset, YOU can run HiCFormer by the following command:
