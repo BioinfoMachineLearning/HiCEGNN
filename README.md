@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# HiCFormer
+# HiCEGNN
 A transformer method of reconstructing 3D structures of genomes and chromosomes from Hi-C data
 
 ![showing.png](./showing.png)
@@ -50,7 +50,7 @@ mv fiilename.mcool cell1_name.mcool
 
 ## Process dataset
 
-## Inference HiCDFormer
+## Inference HiCEGNN
 
 If you want to retrain your dataset, YOU can run HiCFormer by the following command:
 
@@ -59,7 +59,7 @@ If you want to retrain your dataset, YOU can run HiCFormer by the following comm
 ```
 
 
-## Train HiCDFormer
+## Train HiCEGNN
 
 If you want to retrain your dataset, YOU can run HiCFormer by the following command:
 
